@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="2" failures="0" name="Some terse yet descriptive text of what is desired" skipped="0" tests="2" time="1.02" timestamp="2017-12-08T10:06:04.767+01:00[Europe/Paris]"><testcase name="Search google"><error type="java.lang.NullPointerException"/><system-err>null
+fr.ab.testing.steps.serenity.GoogleStep.openGoogleHome(GoogleStep.java:18)
+fr.ab.testing.steps.SearchByKeywordStepDefinitions.buyerWantsToBuy(SearchByKeywordStepDefinitions.java:16)
+✽.I have been connected on google(src/test/resources/features/search/search_by_keyword.feature:7)
+</system-err></testcase></testsuite>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Rechercher un produit" skipped="0" tests="2" time="9.8" timestamp="2017-12-18T14:56:57.674+01:00[Europe/Paris]"><testcase name="Rechercher le produit iphone X - Fail"><failure message="expected:&lt;[iphone X]&gt; but was:&lt;[APPLE iPhone X 64Go Argent]&gt;" type="java.lang.AssertionError">expected:&lt;[iphone X]&gt; but was:&lt;[APPLE iPhone X 64Go Argent]&gt;</failure><system-err>expected:&lt;[iphone X]&gt; but was:&lt;[APPLE iPhone X 64Go Argent]&gt;
+cDiscount.testing.steps.serenity.RechercheStep.verifieLienVersProduit(RechercheStep.java:25)
+cDiscount.testing.steps.RechercheProduitStepDefinitions.le_texte_est_affiché(RechercheProduitStepDefinitions.java:19)
+✽.le texte "iphone X" est affiché(src/test/resources/features/gestionRecherche/rechercheProduit.feature:11)
+</system-err></testcase><testcase name="Rechercher le produit iphone X - Success"/></testsuite>

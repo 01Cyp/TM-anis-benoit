@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Gérer son compte" skipped="0" tests="1" time="45.94" timestamp="2017-12-15T11:10:49.679+01:00[Europe/Paris]"><testcase name="Gérer son compte"><error message="Could not instantiate new WebDriver instance of type class org.openqa.selenium.firefox.FirefoxDriver (Timed out waiting 45 seconds for Firefox to start.&#10;Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'&#10;System info: host: 'gambrinus02', ip: '172.26.18.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.9.0-3-amd64', java.version: '1.8.0_25'&#10;Driver info: driver.version: FirefoxDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate new WebDriver instance of type class org.openqa.selenium.firefox.FirefoxDriver (Timed out waiting 45 seconds for Firefox to start.
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'gambrinus02', ip: '172.26.18.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.9.0-3-amd64', java.version: '1.8.0_25'
+Driver info: driver.version: FirefoxDriver</error><system-err>Could not instantiate new WebDriver instance of type class org.openqa.selenium.firefox.FirefoxDriver (Timed out waiting 45 seconds for Firefox to start.
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'gambrinus02', ip: '172.26.18.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.9.0-3-amd64', java.version: '1.8.0_25'
+Driver info: driver.version: FirefoxDriver
+cDiscount.testing.steps.serenity.pageObject.HomePage.openHomePage(HomePage.java:28)
+cDiscount.testing.steps.serenity.ConditionsVenteStep.allerSurCDiscount(ConditionsVenteStep.java:18)
+cDiscount.testing.steps.ConsulterConditionsStepDefinitons.un_internaute_sur_cDiscount(ConsulterConditionsStepDefinitons.java:14)
+cucumber.runner.Runner.runPickle(Runner.java:80)
+org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+</system-err></testcase></testsuite>

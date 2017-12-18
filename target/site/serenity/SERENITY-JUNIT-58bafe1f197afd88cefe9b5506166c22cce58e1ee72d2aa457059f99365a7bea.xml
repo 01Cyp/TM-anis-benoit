@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Faire une recherche Google" skipped="0" tests="1" time="11.43" timestamp="2017-12-15T10:25:37.931+01:00[Europe/Paris]"><testcase name="Rechercher le site de Polytech Lille"><error message="The following error occurred: Expected condition failed: waiting for By.id: fprsl to be displayed (tried for 5 second(s) with 100 MILLISECONDS interval)&#10;Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'&#10;System info: host: 'gambrinus02', ip: '172.26.18.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.9.0-3-amd64', java.version: '1.8.0_25'&#10;Driver info: driver.version: unknown&#10;For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'&#10;System info: host: 'gambrinus02', ip: '172.26.18.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.9.0-3-amd64', java.version: '1.8.0_25'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.NoSuchElementException">The following error occurred: Expected condition failed: waiting for By.id: fprsl to be displayed (tried for 5 second(s) with 100 MILLISECONDS interval)
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'gambrinus02', ip: '172.26.18.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.9.0-3-amd64', java.version: '1.8.0_25'
+Driver info: driver.version: unknown
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'gambrinus02', ip: '172.26.18.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.9.0-3-amd64', java.version: '1.8.0_25'
+Driver info: driver.version: unknown</error><system-err>The following error occurred: Expected condition failed: waiting for By.id: fprsl to be displayed (tried for 5 second(s) with 100 MILLISECONDS interval)
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'gambrinus02', ip: '172.26.18.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.9.0-3-amd64', java.version: '1.8.0_25'
+Driver info: driver.version: unknown
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'gambrinus02', ip: '172.26.18.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.9.0-3-amd64', java.version: '1.8.0_25'
+Driver info: driver.version: unknown
+fr.ab.testing.steps.serenity.HomePage.recupererResultat(HomePage.java:34)
+fr.ab.testing.steps.serenity.GoogleStep.verifieLienVersPolytech(GoogleStep.java:23)
+fr.ab.testing.steps.SearchByKeywordStepDefinitions.le_texte_est_affiche(SearchByKeywordStepDefinitions.java:24)
+cucumber.runner.Runner.runPickle(Runner.java:80)
+</system-err></testcase></testsuite>

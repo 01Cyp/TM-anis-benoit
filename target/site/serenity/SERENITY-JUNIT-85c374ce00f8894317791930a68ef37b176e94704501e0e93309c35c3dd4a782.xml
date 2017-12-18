@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Consulter les conditions de vente" skipped="0" tests="1" time="6.34" timestamp="2017-12-18T14:46:06.464+01:00[Europe/Paris]"><testcase name="Consulter les conditions de vente"><error message="The following error occurred: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//*[@id=&quot;asyncFooter&quot;]/div[1]/div[2]/ul/li[5]/ul/li[1]/a&quot;}&#10;  (Session info: chrome=59.0.3071.115)&#10;  (Driver info: chromedriver=2.30.477691 (6ee44a7247c639c0703f291d320bdf05c1531b57),platform=Linux 4.9.0-3-amd64 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 0 milliseconds&#10;For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'&#10;System info: host: 'gambrinus05', ip: '172.26.18.4', os.name: 'Linux', os.arch: 'amd64', os.version: '4.9.0-3-amd64', java.version: '1.8.0_25'&#10;Driver info: org.openqa.selenium.remote.RemoteWebDriver&#10;Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.30.477691 (6ee44a7247c639..., userDataDir: /tmp/.org.chromium.Chromium...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, rotatable: false, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 59.0.3071.115, webStorageEnabled: true}&#10;Session ID: 4f4ee56f0ec96af8a81eb0fa037e340a&#10;*** Element info: {Using=xpath, value=//*[@id=&quot;asyncFooter&quot;]/div[1]/div[2]/ul/li[5]/ul/li[1]/a}&#10;For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'&#10;System info: host: 'gambrinus05', ip: '172.26.18.4', os.name: 'Linux', os.arch: 'amd64', os.version: '4.9.0-3-amd64', java.version: '1.8.0_25'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.NoSuchElementException">The following error occurred: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="asyncFooter"]/div[1]/div[2]/ul/li[5]/ul/li[1]/a"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.30.477691 (6ee44a7247c639c0703f291d320bdf05c1531b57),platform=Linux 4.9.0-3-amd64 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'gambrinus05', ip: '172.26.18.4', os.name: 'Linux', os.arch: 'amd64', os.version: '4.9.0-3-amd64', java.version: '1.8.0_25'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.30.477691 (6ee44a7247c639..., userDataDir: /tmp/.org.chromium.Chromium...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, rotatable: false, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 59.0.3071.115, webStorageEnabled: true}
+Session ID: 4f4ee56f0ec96af8a81eb0fa037e340a
+*** Element info: {Using=xpath, value=//*[@id="asyncFooter"]/div[1]/div[2]/ul/li[5]/ul/li[1]/a}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'gambrinus05', ip: '172.26.18.4', os.name: 'Linux', os.arch: 'amd64', os.version: '4.9.0-3-amd64', java.version: '1.8.0_25'
+Driver info: driver.version: unknown</error><system-err>The following error occurred: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="asyncFooter"]/div[1]/div[2]/ul/li[5]/ul/li[1]/a"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.30.477691 (6ee44a7247c639c0703f291d320bdf05c1531b57),platform=Linux 4.9.0-3-amd64 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'gambrinus05', ip: '172.26.18.4', os.name: 'Linux', os.arch: 'amd64', os.version: '4.9.0-3-amd64', java.version: '1.8.0_25'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.30.477691 (6ee44a7247c639..., userDataDir: /tmp/.org.chromium.Chromium...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, rotatable: false, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 59.0.3071.115, webStorageEnabled: true}
+Session ID: 4f4ee56f0ec96af8a81eb0fa037e340a
+*** Element info: {Using=xpath, value=//*[@id="asyncFooter"]/div[1]/div[2]/ul/li[5]/ul/li[1]/a}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'gambrinus05', ip: '172.26.18.4', os.name: 'Linux', os.arch: 'amd64', os.version: '4.9.0-3-amd64', java.version: '1.8.0_25'
+Driver info: driver.version: unknown
+cDiscount.testing.steps.serenity.pageObject.HomePage.clickOnCGV(HomePage.java:33)
+cDiscount.testing.steps.serenity.ConditionsVenteStep.cliquerSurLeLienDesCGV(ConditionsVenteStep.java:20)
+cDiscount.testing.steps.ConsulterConditionsStepDefinitons.il_clique_sur_le_lien_vers_les_Conditions_Générales_de_Vente(ConsulterConditionsStepDefinitons.java:19)
+cucumber.runner.Runner.runPickle(Runner.java:80)
+</system-err></testcase></testsuite>

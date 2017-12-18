@@ -1,0 +1,21 @@
+-------------------------------------------------------------------------------
+Test set: cDiscount.testing.RechercheProduit
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 10.09 sec <<< FAILURE! - in cDiscount.testing.RechercheProduit
+Rechercher le produit iphone X - Fail(Rechercher un produit)  Time elapsed: 5.091 sec  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[iphone X]> but was:<[APPLE iPhone X 64Go Argent]>
+	at org.junit.Assert.assertEquals(Assert.java:115)
+	at org.junit.Assert.assertEquals(Assert.java:144)
+	at cDiscount.testing.steps.serenity.RechercheStep.verifieLienVersProduit(RechercheStep.java:25)
+	at cDiscount.testing.steps.serenity.RechercheStep$$EnhancerByCGLIB$$390f3753.CGLIB$verifieLienVersProduit$2(<generated>)
+	at cDiscount.testing.steps.serenity.RechercheStep$$EnhancerByCGLIB$$390f3753$$FastClassByCGLIB$$4f58fff7.invoke(<generated>)
+	at net.sf.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:228)
+	at net.thucydides.core.steps.StepInterceptor.invokeMethod(StepInterceptor.java:426)
+	at net.thucydides.core.steps.StepInterceptor.executeTestStepMethod(StepInterceptor.java:411)
+	at net.thucydides.core.steps.StepInterceptor.runTestStep(StepInterceptor.java:386)
+	at net.thucydides.core.steps.StepInterceptor.testStepResult(StepInterceptor.java:134)
+	at net.thucydides.core.steps.StepInterceptor.intercept(StepInterceptor.java:63)
+	at cDiscount.testing.steps.serenity.RechercheStep$$EnhancerByCGLIB$$390f3753.verifieLienVersProduit(<generated>)
+	at cDiscount.testing.steps.RechercheProduitStepDefinitions.le_texte_est_affiché(RechercheProduitStepDefinitions.java:19)
+	at ✽.le texte "iphone X" est affiché(src/test/resources/features/gestionRecherche/rechercheProduit.feature:11)
+
